@@ -1,5 +1,5 @@
 ### 👋 Hey there,
-
+- 👋 I'm Black 😂 
 - 💞️ Cartoons, Comedy, Code.
 - 👨🏾‍💻 👯 Working on SASS & Fintech Projects
 
