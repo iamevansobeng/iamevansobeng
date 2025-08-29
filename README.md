@@ -5,7 +5,7 @@
 - 🏗️ Building SASS & Fintech stuff that actually works
 
 ## 🚀 Currently
-CTO @ Tuagye - Making online trading safer than your crypto wallet's backup phrase
+Founder @ Tuagye - Making online trading safer than your mother's advice.
 
 ## 💼 What I Live For
 - Making TypeScript happy (it's high maintenance)
@@ -31,6 +31,7 @@ type Evans = {
   cloud: ['Azure', 'AWS', 'GCP'],
   web3: ['Ethereum', 'Smart Contracts'],
   currentlyObsessedWith: 'Making the web safer for African commerce'
+  ...{a whole lot more, just feeling lazy to put it here. Not really getting paid for this}
 }
 ```
 
@@ -41,8 +42,9 @@ type Evans = {
 - Takes "break stuff and learn" way too literally
 
 ## 📫 Find Me
-- Making Twitter/X less boring: @iamevansobeng
-- Building cool stuff at: [tuagye.com](https://tuagye.com)
+- Making Twitter/X less boring: [@iamevansobeng](https://x.com/iamevansobeng)
+- Looking for my soulmate on IG to escape reality: [@iamevansobeng](https://instagram.com/iamevansobeng)
+- Building Tuagye Marketplace at: [tuagye.com](https://tuagye.com/download)
 - Pretending to be professional: [/in/iamevansobeng](https://www.linkedin.com/in/iamevansobeng)
 
 ![](https://komarev.com/ghpvc/?username=iamevansobeng&color=1dbf73&style=for-the-badge)
